@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <p>Insert to Session Succesfuly</p>
+    <p>Insert to Cart Succesfuly</p>
     <a href="{{ route('addcart') }}"><input type="submit" value="View Cart"></a>
 </body>
 
